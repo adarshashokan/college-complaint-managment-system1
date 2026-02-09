@@ -3,7 +3,7 @@ A Java Swing–based mini project that allows students to submit and view colleg
 This project demonstrates core Object-Oriented Programming (OOP) principles along with GUI development, exception handling, and multithreading in Java.
 
 Project Overview
-The College Complaint Management System is designed to:
+The College Complaint Management System is designed to: 
   Allow students to submit complaints related to their department
   Store complaints temporarily using in-memory data structures
   Display all submitted complaints in a user-friendly format
